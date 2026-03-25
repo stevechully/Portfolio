@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Whatsaround.app",
+    "description": "Developed backend APIs supporting booking management and transactional workflows.Designed PostgreSQL database schemas and optimized queries for performance.Contributed to a scalable production application handling real-world usage.",
+    "techStack": ["Next.js", "React", "Node.js", "AWS", "Prisma ORM", "Express"], 
+    "youtubeVideoId": "xGpl9FeyQ9M",
+    "category": "Professional"
+  },
+  {
+    "id": 2,
+    "title": "NeighborHub",
+    "description": "A full-stack web application for managing residential community services, offering booking, payment, and verification features. Built with React and Node.js, it ensures a seamless and scalable user experience.",
+    "techStack": ["React", "Node.js", "Express", "Postgre SQL", "Tailwind CSS", "REST APIs"],
+    "githubUrl": "https://github.com/stevechully/NeighborHub",
+    "youtubeVideoId": "cz9AoF2UNBM",
+    "category": "Independent"
+  },
+  {
+    "id": 3,
+    "title": "Epass Management for Temples",
+    "description": "A full-stack temple management platform that digitizes darshan passes, pooja bookings, food services, and accommodation. It features QR-based entry validation, eco-fee handling, and real-time slot management. Designed to streamline crowd control while enhancing the devotee experience.",
+    "techStack": ["React", "Node.js", "Express", "Postgre SQL", "Tailwind CSS", "REST APIs"],
+    "githubUrl": "https://github.com/stevechully/E-Pass",
+    "youtubeVideoId": "KjyaXaaDQOM",
+    "category": "Independent"
+  },
+  {
+    "id": 4,
+    "title": "Adaptive Learning Interface for Multimodal Educational Resources",
+    "description": "Developed a web-based learning system analyzing PDFs, videos, images, and text.Applied Deep Learning models including CNNs, RNNs, and NLP techniques.Implemented adaptive assessments and personalized recommendation engine.",
+    "techStack": ["Python", "Machine Learning", "React", "LLMs" , "Deep Learning" ],
+    "githubUrl": "https://github.com/HarrelAlex/Alimer",
+    "youtubeVideoId": "64BKX3Yro2U",
+    "category": "Academic Capstone"
+  }
+]
